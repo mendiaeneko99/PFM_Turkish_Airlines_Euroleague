@@ -1,4 +1,4 @@
-# 🏀 Análisis de la Euroleague Basketball con Machine Learning
+# 🏀 Análisis de la temporada 23-24 de la Turkish Airlines Euroleague con machine learning
 
 ## Porque el verdadero juego está en los datos 🔍
 
@@ -15,9 +15,6 @@ En este trabajo, he aplicado técnicas de *machine learning* como la **regresió
 Mediante estas técnicas, podemos:
 - Identificar los factores más influyentes en el éxito de un equipo.
 - Encontrar jugadores con un impacto similar al del MVP de la temporada, aunque sus contribuciones no sean las más evidentes en las estadísticas tradicionales.
-
-### 🔗 Detalles del Proyecto:
-Explora todos los detalles del proyecto en mi repositorio de GitHub: [Análisis de la Euroleague Basketball](https://lnkd.in/duy6DZ5R)
 
 ---
 
